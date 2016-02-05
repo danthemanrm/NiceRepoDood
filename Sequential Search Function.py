@@ -1,6 +1,6 @@
 '''
 sequential search function
-liscenced under GNU General Public License 3.0
+licensed under GNU General Public License 3.0
 
 created--------2/2/16
 last updated---2/2/16
